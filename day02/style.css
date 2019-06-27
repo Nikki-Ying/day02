@@ -1,0 +1,33 @@
+div{
+    color: red;
+    font-size: 40px;
+}
+
+.left{
+    color: blueviolet;
+}
+
+.right{
+    color: blue;
+}
+
+#t1{
+    color: brown;
+}
+
+#t2,.right{
+    border: 1px solid #ccc;
+}
+
+h1#t1{
+    background-color: #ccc;
+}
+
+.header > ul{
+    border: #ccc;
+}
+
+.header > ul > li:hover {
+    height: 100px;
+    background: pink;
+}
